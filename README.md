@@ -1,0 +1,3 @@
+# HashGenerator
+
+simple HashGenerator
